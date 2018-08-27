@@ -10,7 +10,7 @@ class Pirate
   end
 
   def self.all
-    PIRATES.all
+    PIRATES
   end
 
   def self.clear
