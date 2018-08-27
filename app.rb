@@ -15,7 +15,7 @@ module FormsLab
 
     post '/pirates' do
 
-      erb :
+      erb :'pirates/show'
     end
 
 
