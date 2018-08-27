@@ -12,8 +12,9 @@ module FormsLab
     get '/new' do
     end
 
-    post '/pirates' do 
-      
+    post '/pirates' do
+
+      erb :
     end
 
 
